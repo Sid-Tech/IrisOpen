@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sidharthshanmugam/Sid-Tech/IrisOpen/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
